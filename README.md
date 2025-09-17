@@ -141,10 +141,10 @@ most overvalued:
 
 <br/> 
 
-## Reasoning And Calculations Behind Black Sholes Rankings
+<!-- ## Reasoning And Calculations Behind Black Sholes Rankings
 todo
 <br/>
-<br/>
+<br/> -->
 
 ## Inspiration
 
